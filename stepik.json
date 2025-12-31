@@ -1,1 +1,4 @@
-{"user": "Artyom"}
+[   
+    {"user": "Artyom"},
+    {"key": "value"}
+]
