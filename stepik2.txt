@@ -1,1 +1,2 @@
 Задание для  #2 stepika
+New line text in new_branch
